@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/cedrickespiritu">
+  <a href="www.linkedin.com/in/cedrick-espiritu">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -69,7 +69,7 @@ Software Engineer and Multimedia Designer based in **Batangas, Philippines** —
 
 ## 🚀 Featured Projects
 
-### 🛒 [MetroSevn](https://cedrickespiritu.dev) — AWS-Native Ecommerce Platform
+### 🛒 [MetroSevn]([https://cedrickespiritu.dev](https://main.d2qdwnnlnucxe9.amplifyapp.com/)) — AWS-Native Ecommerce Platform
 Migrated a full ecommerce platform from Supabase to a production AWS stack.
 - **Stack:** Lambda · RDS (PostgreSQL) · S3 · CloudFront · Cognito · API Gateway · Amplify
 - Dual-Lambda VPC architecture · Hybrid JWT migration (Supabase → Cognito zero-downtime) · TikTok Shop API with HMAC-SHA256 signing · 3 CloudFormation stacks
